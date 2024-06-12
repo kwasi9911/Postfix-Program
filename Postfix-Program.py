@@ -1,6 +1,4 @@
 # Name: Nana Kwasi Owusu
-# Partner name: Daniel Amayaenvbo
-# Partner id: doa29
 # Program Description: This is a program that evaluates mathematical expressions in postfix notation. It uses the stack data structure to compute the results
 
 import sys
